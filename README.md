@@ -1,6 +1,8 @@
 ## Hello World! 👋
 
-<img src="https://github.com/AyatANSSAIEN/images/blob/main/Picture1.png" style="width:90%"/>
+<p align="center">
+<img  src="https://github.com/AyatANSSAIEN/images/blob/main/Picture1.png" style="width:90% ;"/>
+ </p>
 
 ## whoami
 I'm computer science engineer.
