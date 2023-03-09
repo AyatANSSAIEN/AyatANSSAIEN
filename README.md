@@ -25,4 +25,4 @@ I'm computer science engineer.
 - :cake:	If you are a fan of cake design, feel free to  <a href="https://www.instagram.com/sweetcakebyayat/" target="_blank">leave feedback</a> or suggestions.
 
 ## Keep in touch 
-<a href="[https://www.instagram.com/s_a_art/](https://www.linkedin.com/in/ayatanssaien/)" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.linkedin.com/in/ayatanssaien/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
