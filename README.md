@@ -6,7 +6,7 @@
 
 ## whoami
 I'm computer science engineer.
-- :woman_technologist:I worked at Grupo Avalon as a full stack developer.
+- :woman_technologist:I worked at Grupo Avalon as a full stack (Spring/Angular) developer.
 - :woman_technologist:I’m currently working at #Hiberus as SAP Commerce devoloper. (Still learning 😊)
 -  I’m currently working
 - :handshake:	  I’m looking to collaborate with talented people so we can exchange our knowledges.
