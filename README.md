@@ -21,7 +21,7 @@ I'm computer science engineer.
   ![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git,github,gitlab,xd)
 
  ## Fun Fact    
-- :woman_artist: Visit my profile on <a href="https://www.instagram.com/s_a_art/" target="_blank">instagram</a>  to see my drawings.
+- :woman_artist: Visit my profile on <a href="https://www.instagram.com/aanssaien/" target="_blank">instagram</a>  to see my drawings.
 
 - :cake:	If you are a fan of cake design, feel free to  <a href="https://www.instagram.com/sweetcakebyayat/" target="_blank">leave feedback</a> or suggestions.
 
